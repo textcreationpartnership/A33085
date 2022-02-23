@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copie of the letter sent from the commissioners of the G.A. to all the presbyteries shewing what course is to be taken by them, and every kirk session and family, for turning away the Lords wrath from the land.</title>
+            <author>Church of Scotland. General Assembly. Commission.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33085</idno>
+            <idno type="STC">Wing C4203</idno>
+            <idno type="STC">ESTC R39979</idno>
+            <idno type="EEBO-CITATION">18579032</idno>
+            <idno type="OCLC">ocm 18579032</idno>
+            <idno type="VID">108072</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33085)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108072)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1648:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copie of the letter sent from the commissioners of the G.A. to all the presbyteries shewing what course is to be taken by them, and every kirk session and family, for turning away the Lords wrath from the land.</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>For George Anderson, printer in Glasgow,</publisher>
+                  <pubPlace>[Glasgow] :</pubPlace>
+                  <date>[1645?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Mitchell Library, Glasgow (Scotland) Public Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Government.</term>
+               <term>Solemn League and Covenant (1643)</term>
+               <term>Scotland --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:108072:1" rendition="simple:additions"/>
+            <pb facs="tcp:108072:1" rendition="simple:additions"/>
+            <head>THE COPIE OF THE <hi>LETTER,</hi> Sent from the Commiſſioners of the <hi>G. A. to all the Presbyteries, ſhewing what courſe is</hi> to be taken by them, and every Kirk-ſeſſion and Family, <hi>for turning away the LORDS wrath from the Land.</hi>
+            </head>
+            <opener>
+               <salute>Reverend and beloved Brethren.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Eing frequentlie conveined heer, by advice and deſire of the honourable Eſtats of Parliament and being alſo by them excited to make an accurat ſearch of the ſins of the land, provoking the Lord to juſt indignation againſt us, we did exhibite to them a new and neceſſarie warning, briefly containing the cauſes of our judgement, and the conceived remeedies thereof; Which for ſome reaſons is thought fit not to be printed at this time: onlie we ſignifie this unto you, that in the end thereof we exhorted the ſeverall Eſtates among themſelves to make a ſtrait inquiſition of the ſins moſt incident to themſelves, that they might provoke one another to repentance, and zeal toward God, and his Cauſe; and ſo make better uſe of this, then of our former
+<pb facs="tcp:108072:2" rendition="simple:additions"/> warnings, who accordingly did ſet apart a time for that effect, and went about it: and we who did exhort others, thought it in<g ref="char:EOLhyphen"/>cumbent to our ſelves, ſeriouſlie to ſearch and humblie and ſadlie to acknowledge the faults of our perſons and callings, ſuch as were known to be too riſe amongst us of the Ministerie: which was in a ſolemne way performed by us in one of our meetings, one by one, as the LORD, touched every mans heart, and opened his mouth: out of which ſpeaches the incloſed catalogue of ſins, and remedies thereof was extracted, and the ſame we thought good to tranſmit unto you, that you making uſe thereof and re<g ref="char:EOLhyphen"/>flecting your thoughts upon your ſelves, may Presbeteriallie fol<g ref="char:EOLhyphen"/>low the ſame courſe, and give order that the ſamine be done in your ſeverall Seſſions: Defiring withall, that in each Congrega<g ref="char:EOLhyphen"/>tion, in a ſolemne humiliation, there may be a confeſſion and be<g ref="char:EOLhyphen"/>wailing of ſinne, and a preſſing of each familie privatlie to per<g ref="char:EOLhyphen"/>forme the ſame; That ſo all Scotland may lament after the Lord; that his fierce wrath may depart from us. So hoping you will not be deficient herein in ſo neceſſarie a time, Wee commit you and your labours to the bleſſing of GOD, and reſts,</p>
+            <closer>
+               <signed>Your loving Brethren, the Commiſſioners of the Generall Aſſemblie. M. WILLIAM BENNET MODERATOR.</signed>
+               <dateline>Perth, <date>Aug. 5. 1645.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>This our letter, together with the incloſed Articles, we require to be regiſtrate in your Presby<g ref="char:EOLhyphen"/>terie Bookes, for our exoneration.</p>
+            </postscript>
+         </div>
+         <div type="corruptions_in_the_Ministry">
+            <pb facs="tcp:108072:2" rendition="simple:additions"/>
+            <head>Enormities and corruptions obſerved to be <hi>in the Miniſterie, with the remedies thereof,</hi> recommended to the ſeverall Presbyteries, by the <hi>Commiſſioners of the Generall Aſſemblie, met at Perth,</hi> in the beginning of Auguſt, 1645.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE firſt and main ſin, reaching both to our perſonall carriage and callings, we judge to be, Not ſtudying how to keep Communion and Fellowſhip with God in Chriſt, but wal<g ref="char:EOLhyphen"/>king in a naturall way, without imploying of Chriſt, or drawing vertue from him, to inable us unto ſanctification, and preaching in ſpirit and power.</p>
+            <div type="part">
+               <head>In our Lives.</head>
+               <p n="1">1. MUch fruitles converſing in companie, and complying with the ſins of all ſorts, not behaving our ſelves as becomes the men of God.</p>
+               <p n="2">2. Great worldlineſſe is to be found amongſt us, mynding and ſpeaking moſt about things of this life, being buſied about many things, but forgetting the main.</p>
+               <p n="3">3 Slighting of Gods worſhip in their families, and therefore no cordiall urging of it upon others: yea, altogether a wanting of it in ſome, if it be credible.</p>
+               <p n="4">
+                  <pb facs="tcp:108072:3" rendition="simple:additions"/>4. Want of gravitie in carriage and apparell, diſſolutneſſe in hair, and ſhaking about the kne<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s lightneſſe in the apparrell of their wives and children.</p>
+               <p n="5">5. Tipling and bearing companie in untymous drinking in Tavernes and Ail-houſes, or any where elſe, whereby the Mini<g ref="char:EOLhyphen"/>ſterie is made vile and contemptible.</p>
+               <p n="6">6. Diſcountenancing of the godly; ſpeaking ill of them, be<g ref="char:EOLhyphen"/>cauſe of ſome that are unanſwerable to their profeſſion.</p>
+               <p n="7">7. The Sabboth not ſanctified after Sermons, which maketh people think that the Sabboth is ended with the Sermons.</p>
+               <p n="8">8. There are alſo to be found amongſt us, who uſe ſmall and minched oaths.</p>
+               <p n="9">9. Some ſo great ſtrangers to Scripture, that except in their publict Miniſterie, though they read many things, yet they are little converſant in the Scripture, and in meditation thereof: A duetie incumbent to all the people of God.</p>
+            </div>
+            <div type="part">
+               <head>In our Callings.</head>
+               <p n="1">1. COrrupt entrie into the Miniſterie in former tymes, and following the courſe of defection, though forſaken, yet never ſeriouſly repented: as alſo preſent entring into the Miniſte<g ref="char:EOLhyphen"/>rie, as to a way of living in the world, and not as to a ſpirituall calling.</p>
+               <p n="2">2. Helping in, and holding in of inſufficient and ſuſpected men, who ſavour the things of this life, and keeping the door ſtraiter on them whom God hath ſealed, then upon theſe who have leſſe evidence of the power of grace and holineſſe.</p>
+               <p n="3">3. Partiality in favouring, and ſpeaking for the ſcandalous, whether Miniſters or other perſons, teaching them how to ſhift and delay cenſures.</p>
+               <p n="4">4. Silence in the publict cauſe, not labouring to cure the
+<pb facs="tcp:108072:3" rendition="simple:additions"/> diſſaffection of people, nor urging them to conſtancie and pati<g ref="char:EOLhyphen"/>ence, in bearing of publict burdens, nor to forwardneſſe in the publict Cauſe; whereby Malignants are multiplied: yea ſome are ſo groſſe herein, that even in publict Faſts little or nothing is to be heard from them, ſounding this way.</p>
+               <p n="5">5. Some account it a point of wiſdome to ſpeak ambigu<g ref="char:EOLhyphen"/>ouſly: ſome incline to juſtifie the wicked cauſe, uttering words which ſavour of diſſaffection: and all their complaining of the tymes is in ſuch a way, as may ſteal the hearts of people from lyking of good Inſtruments in this work, and conſequently from Gods Cauſe: yea, ſome reading publict Orders, are ready to ſpeak againſt them in their privat conference.</p>
+               <p n="6">6 Idleneſſe either in ſeldome preaching, as once on the Lords day, or in preparation for publict dueties, not being given to reading and meditation: others have but fits of paines, not like other Tradſmen continually at their work.</p>
+               <p n="7">7. Want of zeal, and love to the converſion of ſouls, not be<g ref="char:EOLhyphen"/>ing weighted with the want of ſucceſſe, in reclaiming of ſinners, nor ſearching in themſelves the cauſe of not profiting, preach<g ref="char:EOLhyphen"/>ing <hi>ex officio</hi> not <hi>ex conſcientia officii.</hi>
+               </p>
+               <p n="8">8 Self-ſeeking in preaching, and a venting rather of their wit and skill then a ſhowing foorth of the wiſdome and power of God.</p>
+               <p n="9">9 Lifeleſneſſe in preaching, not ſtudying to be furniſhed by Chriſt with power: and ſo the ordinance of God reacheth not to the conſcience; and heereto belongeth the not applying of the doctrine unto the auditorie and tymes,</p>
+               <p n="10">10 The indiſcreet curing of the indiſcretion of pious peo<g ref="char:EOLhyphen"/>ple and Miniſters, whereby godlineſſe hath gotten a deep wound, and profanitie hath lifted up the head, contrare to that wiſe and gracious order ſet foorth in the Generall Aſſembly holden at <hi>Edinburgh,</hi> 1641.</p>
+               <p n="11">11. Little care to furniſh our Armie, either abroad or at
+<pb facs="tcp:108072:4" rendition="simple:additions"/> home with Miniſters, one of our grievous ſins, and cauſes of our calamity.</p>
+               <p n="12">12. Laſt, it is to be feared that Miniſters in ſecreet are ne<g ref="char:EOLhyphen"/>gligent to wreſtle in prayer, for a bleſſing to be poured out upon their labours, contenting themſelves with their publict performances.</p>
+            </div>
+            <div type="part">
+               <head>Remedies.</head>
+               <p n="1">1. FIrſt, That Presbyteries make great conſcience to have all vacant places within their ſeverall bounds filled with god<g ref="char:EOLhyphen"/>ly and able m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, where-ever they be to be found: and that un<g ref="char:EOLhyphen"/>der pretence of being a helper, or ſecond to another, none be taken in, but ſuch as are able for the ſame charge.</p>
+               <p n="2">2. Whereas it is known, that private tryall in Presbyteries are for the moſt part perfunctorious, the Brethren are heereby exhorted to be more ſerious, and faithfull heerein, as they will be anſwerable to Chriſt, the chief Sheepherd: and in a way pre<g ref="char:EOLhyphen"/>vious thereto, that Brethren be free, in loving admonition one of another ſecreetly, from tyme to tyme; and that whoſoever keeps not the Presbyterie or Synod, after grave admonitions, may come under further cenſures.</p>
+               <p n="3">3. That accuracie be uſed at viſitation of Kirks, and that the Elders one by one (the reſt being removed) be called in, to d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pone about the Miniſter, and one of them about another.</p>
+               <p n="4">4. That courſe be taken to divide Congregations in parts, and by the help not only of Elders in their ſeverall parts, but of neighbours alſo, the evils, and neglects of perſons and fa<g ref="char:EOLhyphen"/>milies, may be found out and remeedied.</p>
+               <p n="5">5. That every Miniſter be humbled for his former failings, and make his peace with God, that the more effectuallie he may preach repentance, and may ſtand in the gape, to turne away the
+<pb facs="tcp:108072:4" rendition="simple:additions"/> Lords wrath: running between the Porch and the Altar, ſigh<g ref="char:EOLhyphen"/>ing and crying for all the abominations of the land.</p>
+               <p n="6">6. Speciall care would be had, that all Miniſters have their converſation in heaven, mainlie minding the things of God, and exerciſing faith, for drawing life out of Jeſus Chriſt, the fountain of life, arming themſelves thereby with power againſt the con<g ref="char:EOLhyphen"/>tagion and wickedneſſe of the world.</p>
+               <p n="7">7. Care would be had of godly conference in Presbyteries, even in time of their refreſhment, and the Moderator is to look to it, that good matter be furniſhed thereto.</p>
+               <p n="8">8. It is alſo very neceſſar for every Miniſter that would be fruitfull in the work of the Lord, to bring home the word of the Lord to his own heart and conſcience, by Prayer and Medi<g ref="char:EOLhyphen"/>tation, both before and after the publict ordinance.</p>
+               <p n="9">9. Uſe would be made of the roll of the Pariſh, not onelie for examination, but alſo for conſidering the ſeverall conditions and diſpoſitions of the people, that accordinglie they may be admoniſhed, and particularlie prayed for in ſecreet.</p>
+               <p n="10">10. It is very expedient that Miniſters have more commu<g ref="char:EOLhyphen"/>nion among themſelves for their mutuall ſtirring up, and ſtrengthning of their hands in the Lords work, and rectifying of theſe who are not incorrigible.</p>
+               <p n="11">11. That Miniſters in all ſorts of companie labour to bee fruitfull, as the Salt of the earth, ſeaſoning them they meet with, not onely forbearing to drink healths (Satans ſnare, leading to exceſſe) but reproving it in others.</p>
+               <p n="12">12. All Miniſters would be carefull to cheriſh the ſmoaking flax of weak beginnings in the wayes of God, and ought cou<g ref="char:EOLhyphen"/>ragiouſlie to oppoſe all mockers and revylers of the godlie.</p>
+               <p n="13">13. As at all times, ſo ſpeciallie now when the Lord is calling us all to an account; it becomes the Miniſters of Chriſt, with all diligence and faithfulneſſe, to improve their Miniſtrie to the outmoſt, to be inſtant in ſeaſon and out of ſeaſon; yea, even
+<pb facs="tcp:108072:5" rendition="simple:additions"/> frugallie to imploy their time in privat, in reading of, and me<g ref="char:EOLhyphen"/>ditating on Scripture, that the word of God may dwell plen<g ref="char:EOLhyphen"/>tifullie in them.</p>
+               <p n="14">14. That the provyding the Armies with Miniſters be pre<g ref="char:EOLhyphen"/>ferred to any congregation, and theſe who are appointed to attend the ſame, and are deficient, be without delay ſeverelie cenſured; according to the Act of the Generall Aſſemblie, and that all Miniſters not onely in publict, pray for our Armies, ſpe<g ref="char:EOLhyphen"/>ciallie theſe that are to encounter with the bloody enemie within the land, but alſo continuallie bear them up before the Lord, that their lives being reformed, their heart and hands may be ſtrengthned, and their undertaking at laſt bleſſed of GOD with ſucceſſe.</p>
+               <p n="15">15. That b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſide all other ſcandals, ſilence or ambiguous ſpeaking in the publict cauſe, much more detracting and diſ<g ref="char:EOLhyphen"/>aff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cted ſpeaches be ſeaſonablie cenſured: and to this effect, all honeſt hearted Brethren would firmelie unite themſelves in the Lord, the younger honouring the elder, and the elder not de<g ref="char:EOLhyphen"/>ſpiſing the younger.</p>
+               <p n="16">16. And finallie, both for the corruption of the Miniſterie and remeed thereof, we refer the brethren to the Act of the Generall Aſſemblie at <hi>Edenburgh,</hi> 1596. revived in the late Aſſemblie at <hi>Glaſgow,</hi> 1638. to bee found in the printed Act thereof.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <head>For <hi>George Anderſon</hi> Printer in <hi>Glaſgovv,</hi>
+            </head>
+            <p>Theſe are to warrand the Printing of the Letter above-vvritten, vvith the Articles containing the enor<g ref="char:EOLhyphen"/>mities, and the remedies thereof.</p>
+            <closer>
+               <signed>Mr. A. Ker.</signed>
+            </closer>
+            <pb facs="tcp:108072:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
